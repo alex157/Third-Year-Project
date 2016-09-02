@@ -1,1 +1,2 @@
 # Third-Year-Project
+This project investigates how serendipity can be injected in music recommender systems while maintaining accuracy. Following a variance-based approach towards the production of recommendations, a the program was was implemented and evaluated with the participation of potential users. The participants had the opportunity to evaluate data deriving from the software’s output via a questionnaire and identify the level of existing serendipity in order to conclude how both accuracy and diversity can coexist in music recommender systems.
